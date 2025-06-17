@@ -2,8 +2,8 @@
 
 #*=========User End===============**
 
-#** User login and registration
-#** Book Hotel Rooms
+//#** User login and registration
+//#** Book Hotel Rooms
 #** Check booking availability 
 #** Manage bookings- modify or cancel bookings
 #** Give review and ratins of booked room and its services
