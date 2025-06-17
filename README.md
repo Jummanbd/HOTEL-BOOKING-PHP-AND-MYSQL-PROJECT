@@ -1,6 +1,7 @@
  Hotel Booking website 
 
-*=========User End===============**
+#*=========User End===============**
+
 ** User login and registration
 ** Book Hotel Rooms
 ** Check booking availability 
