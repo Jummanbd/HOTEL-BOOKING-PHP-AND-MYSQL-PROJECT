@@ -2,11 +2,11 @@
 
 #*=========User End===============**
 
-//#** User login and registration
-//#** Book Hotel Rooms
-#** Check booking availability 
-#** Manage bookings- modify or cancel bookings
-#** Give review and ratins of booked room and its services
+// User login and registration
+// Book Hotel Rooms
+# Check booking availability 
+* Manage bookings- modify or cancel bookings
+* Give review and ratins of booked room and its services
 #** Profile management 
 #** Online payment (Paytm payment gateway)
 
