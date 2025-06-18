@@ -2,7 +2,7 @@
 
 # =========User End===============
 
-// User login and registration
+ * User login and registration
 * Book Hotel Rooms
 * Check booking availability 
 * Manage bookings- modify or cancel bookings
