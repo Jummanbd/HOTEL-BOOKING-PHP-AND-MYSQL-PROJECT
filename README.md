@@ -15,7 +15,7 @@
 * Room management - add, modify, delete , rooms details
 * Manage users - view, delete ban or un-ban users
 * Booking management 
-   -Arrival status
+   *- Arrival status
    -Check-out change
    -Refund on cancellation & early check-out 
    -Finalize Booking
