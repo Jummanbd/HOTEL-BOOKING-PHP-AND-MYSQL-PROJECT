@@ -61,11 +61,20 @@ div.login-form {
 }
 .custom-alert {
   position: fixed;
-  top: 25px;
+  top: 85px;
   right: 25px;
   width: 450px;
 }
-
+#dashboard-menu {
+  position: fixed;
+  height: 100vh;
+}
+@media screen and (max-width: 991px) {
+  #dashboard-menu {
+    height: auto;
+    width: 100%;
+  }
+}
 @media screen and (max-width: 575px) {
   .availability-from {
     margin-top: 25px;

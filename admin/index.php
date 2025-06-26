@@ -15,7 +15,6 @@ if((isset($_SESSION['adminLogin']) && $_SESSION['adminLogin'])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Login Panel</title>
-    <link rel="stylesheet" href="./css/style.css">
     <?php require('inc/link.php');?>
 
 </head>
